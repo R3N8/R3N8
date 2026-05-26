@@ -1,7 +1,7 @@
 # Hey!😄
-_I like experimenting — sometimes with code, sometimes with butter and garlic. Both can crash if you’re not careful, but at least one smells amazing while it’s happening._
+_I like experimenting — sometimes with code, sometimes with butter and garlic._
 
-I’m not a runner — I’ve accepted that the world already has enough of those. Swimming is more my style: focused and calm. I also enjoy small, quiet moments in nature when I’m not gaming. Traveling is one of my favorite ways to explore flavors, smells, and good stories — though my sense of direction is truly atrocious, so you might find me in the most unexpected places.
+Traveling is one of my favorite ways to explore flavors, smells, and good stories — though my sense of direction is truly atrocious, so you might find me in the most unexpected places.
 
 If I’m not experimenting in the kitchen or behind a screen, I’m probably sketching, painting, or plotting my next slightly impractical creation.
 
@@ -11,7 +11,7 @@ If you want the professional side of me, **[LinkedIn](https://www.linkedin.com/i
 ## Connect
 **[Portfolio]()** • **[LinkedIn](https://www.linkedin.com/in/renate-pedersen-6102a7389/)**
 
-## 🌸 Current obsessions - Tech Stack
+## 🌸 Current obsessions
 ### Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
